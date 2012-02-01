@@ -1,0 +1,2 @@
+/Users/jon/carto/src/Cartographer/obj/Debug/Carto.Cartographer.MiscText.resources
+/Users/jon/carto/src/Cartographer/obj/Debug/Carto.Cartographer.Properties.Resources.resources

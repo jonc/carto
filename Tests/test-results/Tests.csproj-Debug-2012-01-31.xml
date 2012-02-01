@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results />
+  <Tests>
+    <TestRecord Name="Carto">
+      <Results />
+      <Tests>
+        <TestRecord Name="Tests">
+          <Results />
+          <Tests>
+            <TestRecord Name="TestLoad">
+              <Results />
+              <Tests>
+                <TestRecord Name="TestGetContours">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T21:25:46</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 1.33ms</Message>
+                      <ConsoleOutput>414000
+506000
+506000
+523000
+307000
+523000
+523000
+523000
+523000
+525000
+506000
+506000
+301001
+523000
+505000
+414000
+414000
+502000
+530000
+530000
+507000
+414000
+523000
+523000
+505000
+523000
+530000
+507000
+507000
+507000
+306000
+306000
+507000
+306000
+414000
+414000
+414000
+414000
+301000
+301000
+301000
+301000
+523000
+525000
+301001
+301001
+530000
+502000
+110000
+401000
+523000
+401000
+401000
+530000
+412001
+110000
+206000
+542000
+527000
+523000
+403000
+523000
+523000
+523000
+306000
+523000
+526000
+410000
+307000
+110000
+403000
+110000
+110000
+523000
+523000
+505000
+542000
+542000
+506000
+542000
+301001
+506000
+520001
+542000
+301001
+542000
+520001
+542000
+523000
+523000
+542000
+506000
+542000
+542000
+414000
+414000
+414000
+406000
+406000
+406000
+542000
+406000
+414000
+414000
+414000
+414000
+301000
+301001
+505000
+523000
+542000
+542000
+523000
+301001
+542000
+506000
+542000
+506000
+525000
+414000
+414000
+506000
+523000
+414000
+506000
+516000
+524000
+524000
+524000
+506000
+507000
+507000
+542000
+542000
+542000
+523000
+524000
+524000
+524000
+523000
+524000
+518000
+506000
+523000
+526000
+523000
+524000
+505000
+507000
+524000
+523000
+524000
+414000
+523000
+526000
+542000
+526000
+523000
+523000
+110000
+110000
+110000
+523000
+523000
+526000
+523000
+523000
+506000
+506000
+406000
+406000
+406000
+110000
+406000
+406000
+402000
+403000
+110000
+110000
+110000
+110000
+406000
+526000
+507000
+301000
+402000
+403000
+403000
+402000
+414000
+301000
+403000
+403000
+403000
+403000
+306000
+408000
+403000
+403000
+301001
+403000
+403000
+403000
+403000
+801000
+401000
+410000
+302000
+780004
+414000
+414000
+414000
+414000
+414000
+810000
+810000
+810000
+414000
+527000
+527000
+527000
+527000
+527000
+527000
+802002
+802001
+999000
+810000
+537000
+523000
+504000
+507000
+542000
+542000
+542000
+542000
+542000
+301001
+523000
+523000
+523000
+524000
+523000
+524000
+542000
+542000
+523000
+523000
+542000
+542000
+523000
+525000
+301001
+502000
+301001
+530000
+503000
+523000
+401000
+527001
+406000
+401000
+101000
+403000
+301001
+507000
+401000
+507000
+523000
+502000
+403000
+523000
+406000
+408000
+523000
+307000
+313000
+524000
+406000
+527000
+527000
+522000
+504000
+504000
+504000
+414000
+507000
+507000
+523000
+108000
+108000
+542000
+542000
+542000
+542000
+526000
+523000
+106000
+542000
+302000
+542000
+542000
+101000
+110000
+523000
+414000
+416000
+416000
+416000
+416000
+306000
+414000
+520001
+207000
+508000
+414000
+414000
+523000
+403000
+408000
+301001
+523000
+523000
+524000
+524000
+524000
+101000
+101000
+102000
+101000
+101000
+101000
+406000
+401000
+530000
+406000
+504000
+401000
+401000
+530000
+530000
+504000
+401000
+401000
+506000
+526000
+406000
+406000
+523000
+406000
+523000
+403000
+403000
+408000
+414000
+530000
+530000
+530000
+528000
+109000
+542000
+110000
+526000
+506000
+530000
+524000
+401000
+406000
+401000
+523000
+406000
+401000
+401000
+408000
+101000
+401000
+403000
+401000
+520001
+526000
+526000
+523000
+535000
+508000
+307000
+523000
+416000
+416000
+416000
+507000
+306000
+527001
+306000
+306000
+306000
+101000
+406000
+101000
+306000
+520001
+415000
+403000
+406000
+520001
+520001
+523000
+526000
+415000
+520001
+523000
+520001
+414000
+415000
+406000
+406000
+406000
+520001
+406000
+415000
+520001
+517000
+415000
+406000
+408000
+406000
+406000
+506000
+403000
+408000
+110000
+401000
+301000
+530000
+530000
+530000
+102000
+101000
+102000
+101000
+403000
+403000
+403000
+403000
+403000
+415000
+406000
+101000
+101000
+101000
+101000
+101000
+102000
+401000
+403000
+403000
+403000
+403000
+408000
+403000
+406000
+403000
+523000
+520001
+403000
+101000
+523000
+502000
+537000
+810003
+810003
+507000
+307000
+109000
+403000
+401000
+101000
+810003
+810003
+810003
+502000
+504000
+530000
+505000
+506000
+508000
+102000
+101000
+109000
+110000
+523000
+525000
+810003
+810003
+810003
+542000
+520001
+523000
+526000
+520001
+412001
+301000
+301001
+302000
+305000
+307000
+810003
+810003
+810003
+810003
+810003
+810003
+810003
+810003
+810003
+810003
+810003
+414000
+414000
+414000
+414000
+414000
+406000
+408000
+410000
+401000
+403000
+527000
+522000
+108000
+106000
+517000
+518000
+810003
+810003
+516000
+802000
+811000
+523000
+102000
+408000
+408000
+403000
+542000
+542000
+542000
+542000
+800000
+402000
+414000
+810003
+810003
+403000
+403000
+403000
+403000
+542000
+406000
+408000
+508000
+307000
+301001
+309000
+301001
+403000
+309000
+403000
+301000
+406000
+520001
+416000
+406000
+507000
+414000
+523000
+523000
+526000
+310000
+409000
+523000
+520001
+416000
+406000
+801002
+1002
+1003
+1004
+1004
+1004
+1005
+1005
+1006
+1006
+1007
+1007
+416000
+520001
+410000
+416000
+416000
+416000
+406000
+408000
+402000
+402000
+416000
+416000
+508000
+403000
+402000
+408000
+112000
+406000
+408000
+406000
+520001
+524000
+508000
+508000
+524000
+504000
+526000
+416000
+406000
+416000
+406000
+507000
+507000
+527001
+529000
+416000
+406000
+507000
+406000
+406000
+403000
+401000
+406000
+542000
+542000
+402000
+520000
+414000
+306000
+524000
+524000
+542000
+402000
+308000
+110000
+507000
+523000
+523000
+406000
+406000
+524000
+542000
+401000
+406000
+406000
+416000
+507000
+402000
+403000
+110000
+308000
+406000
+406000
+406000
+402000
+403000
+542000
+508000
+523000
+406000
+507000
+520001
+520001
+406000
+406000
+416000
+408000
+414000
+810003
+415000
+414000
+810003
+537000
+810003
+539000
+310000
+309000
+810003
+810003
+408000
+403000
+403000
+529000
+529000
+414000
+810003
+408000
+310000
+406000
+523000
+542000
+524000
+542000
+308000
+523000
+416000
+527000
+523000
+523000
+401000
+527001
+408000
+416000
+810003
+112000
+542000
+414000
+414000
+414000
+406000
+416000
+414000
+535000
+507000
+508000
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:02:06</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.86ms</Message>
+                      <ConsoleOutput>Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+Contour
+20
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:04:00</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.59ms</Message>
+                      <ConsoleOutput>Contour
+{X=-34.77,Y=10.92,Width=15.07,Height=15.58}
+Contour
+{X=-32.73,Y=9.42,Width=17.17,Height=16.25}
+Contour
+{X=-43.36,Y=-38.02,Width=7.059997,Height=7.909999}
+Contour
+{X=-42.08,Y=-35.2,Width=0.9099991,Height=0.5599968}
+Contour
+{X=-65.06,Y=-57.21,Width=20.5,Height=21.33}
+Contour
+{X=-66.96,Y=-59.1,Width=24.82,Height=27.21}
+Contour
+{X=-70.93,Y=-62.75,Width=31.54,Height=37.17}
+Contour
+{X=-82.98,Y=-19.48,Width=14.88999,Height=34.27}
+Contour
+{X=-79.03,Y=-39.89,Width=20.68,Height=43.05}
+Contour
+{X=-89.88,Y=-59.54,Width=10.75,Height=6.989997}
+Contour
+{X=-63.51,Y=-5.16,Width=30.86,Height=32.12}
+Contour
+{X=-50.74,Y=-72.17,Width=37.05,Height=95.72}
+Contour
+{X=-51.21,Y=-95.59,Width=73.62,Height=64.20999}
+Contour
+{X=16.44,Y=-40.58,Width=6.849999,Height=24.47}
+Contour
+{X=-26.85,Y=-139.85,Width=11.73,Height=54.85}
+Contour
+{X=-35.53,Y=-148.03,Width=21.44,Height=72.93999}
+Contour
+{X=-39.59,Y=-150.78,Width=32.3,Height=93.97999}
+Contour
+{X=-53.81,Y=-141.1,Width=79.89,Height=97.44}
+Contour
+{X=5.27,Y=4.06,Width=41.41,Height=44.84}
+Contour
+{X=22.94,Y=-96.53,Width=6.549998,Height=2.350002}
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:06:18</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.59ms</Message>
+                      <ConsoleOutput>Contour Carto.MapModel.LineSymbol
+{X=-34.77,Y=10.92,Width=15.07,Height=15.58}
+Contour Carto.MapModel.LineSymbol
+{X=-32.73,Y=9.42,Width=17.17,Height=16.25}
+Contour Carto.MapModel.LineSymbol
+{X=-43.36,Y=-38.02,Width=7.059997,Height=7.909999}
+Contour Carto.MapModel.LineSymbol
+{X=-42.08,Y=-35.2,Width=0.9099991,Height=0.5599968}
+Contour Carto.MapModel.LineSymbol
+{X=-65.06,Y=-57.21,Width=20.5,Height=21.33}
+Contour Carto.MapModel.LineSymbol
+{X=-66.96,Y=-59.1,Width=24.82,Height=27.21}
+Contour Carto.MapModel.LineSymbol
+{X=-70.93,Y=-62.75,Width=31.54,Height=37.17}
+Contour Carto.MapModel.LineSymbol
+{X=-82.98,Y=-19.48,Width=14.88999,Height=34.27}
+Contour Carto.MapModel.LineSymbol
+{X=-79.03,Y=-39.89,Width=20.68,Height=43.05}
+Contour Carto.MapModel.LineSymbol
+{X=-89.88,Y=-59.54,Width=10.75,Height=6.989997}
+Contour Carto.MapModel.LineSymbol
+{X=-63.51,Y=-5.16,Width=30.86,Height=32.12}
+Contour Carto.MapModel.LineSymbol
+{X=-50.74,Y=-72.17,Width=37.05,Height=95.72}
+Contour Carto.MapModel.LineSymbol
+{X=-51.21,Y=-95.59,Width=73.62,Height=64.20999}
+Contour Carto.MapModel.LineSymbol
+{X=16.44,Y=-40.58,Width=6.849999,Height=24.47}
+Contour Carto.MapModel.LineSymbol
+{X=-26.85,Y=-139.85,Width=11.73,Height=54.85}
+Contour Carto.MapModel.LineSymbol
+{X=-35.53,Y=-148.03,Width=21.44,Height=72.93999}
+Contour Carto.MapModel.LineSymbol
+{X=-39.59,Y=-150.78,Width=32.3,Height=93.97999}
+Contour Carto.MapModel.LineSymbol
+{X=-53.81,Y=-141.1,Width=79.89,Height=97.44}
+Contour Carto.MapModel.LineSymbol
+{X=5.27,Y=4.06,Width=41.41,Height=44.84}
+Contour Carto.MapModel.LineSymbol
+{X=22.94,Y=-96.53,Width=6.549998,Height=2.350002}
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:10:26</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.71ms</Message>
+                      <ConsoleOutput>Contour Carto.MapModel.LineSymbol
+{X=-34.77,Y=10.92,Width=15.07,Height=15.58}
+23.59266
+Contour Carto.MapModel.LineSymbol
+{X=-32.73,Y=9.42,Width=17.17,Height=16.25}
+377.1777
+Contour Carto.MapModel.LineSymbol
+{X=-43.36,Y=-38.02,Width=7.059997,Height=7.909999}
+26.35425
+Contour Carto.MapModel.LineSymbol
+{X=-42.08,Y=-35.2,Width=0.9099991,Height=0.5599968}
+4.904151
+Index Contour Carto.MapModel.LineSymbol
+{X=-46.045,Y=-41.405,Width=12.93,Height=14.2}
+85.80803
+Contour Carto.MapModel.LineSymbol
+{X=-65.06,Y=-57.21,Width=20.5,Height=21.33}
+270.5651
+Contour Carto.MapModel.LineSymbol
+{X=-66.96,Y=-59.1,Width=24.82,Height=27.21}
+434.1942
+Contour Carto.MapModel.LineSymbol
+{X=-70.93,Y=-62.75,Width=31.54,Height=37.17}
+508.3542
+Contour Carto.MapModel.LineSymbol
+{X=-82.98,Y=-19.48,Width=14.88999,Height=34.27}
+1248.025
+Contour Carto.MapModel.LineSymbol
+{X=-79.03,Y=-39.89,Width=20.68,Height=43.05}
+658.6766
+Contour Carto.MapModel.LineSymbol
+{X=-89.88,Y=-59.54,Width=10.75,Height=6.989997}
+16.40542
+Index Contour Carto.MapModel.LineSymbol
+{X=-69.465,Y=-65.535,Width=44.52,Height=93.43}
+910.9212
+Contour Carto.MapModel.LineSymbol
+{X=-63.51,Y=-5.16,Width=30.86,Height=32.12}
+781.7222
+Index Contour Carto.MapModel.LineSymbol
+{X=-89.625,Y=-41.045,Width=23.76,Height=62.27}
+1864.926
+Contour Carto.MapModel.LineSymbol
+{X=-50.74,Y=-72.17,Width=37.05,Height=95.72}
+720.2663
+Contour Carto.MapModel.LineSymbol
+{X=-51.21,Y=-95.59,Width=73.62,Height=64.20999}
+1264.222
+Contour Carto.MapModel.LineSymbol
+{X=16.44,Y=-40.58,Width=6.849999,Height=24.47}
+133.4757
+Contour Carto.MapModel.LineSymbol
+{X=-26.85,Y=-139.85,Width=11.73,Height=54.85}
+196.7296
+Contour Carto.MapModel.LineSymbol
+{X=-35.53,Y=-148.03,Width=21.44,Height=72.93999}
+28.44792
+Contour Carto.MapModel.LineSymbol
+{X=-39.59,Y=-150.78,Width=32.3,Height=93.97999}
+154.4738
+Index Contour Carto.MapModel.LineSymbol
+{X=-46.055,Y=-149.385,Width=69.04,Height=104.61}
+738.3592
+Contour Carto.MapModel.LineSymbol
+{X=-53.81,Y=-141.1,Width=79.89,Height=97.44}
+1316.363
+Contour Carto.MapModel.LineSymbol
+{X=5.27,Y=4.06,Width=41.41,Height=44.84}
+1099.516
+Index Contour Carto.MapModel.LineSymbol
+{X=11.575,Y=-95.45499,Width=8.13,Height=2.059995}
+354.0305
+Contour Carto.MapModel.LineSymbol
+{X=22.94,Y=-96.53,Width=6.549998,Height=2.350002}
+289.8195
+Index Contour Carto.MapModel.LineSymbol
+{X=11.185,Y=9.594999,Width=29.74,Height=33.24}
+575.4766
+</ConsoleOutput>
+                      <ConsoleError>---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+---- DEBUG ASSERTION FAILED ----
+---- Assert Short Message ----
+   at System.Diagnostics.TraceImpl.Assert(Boolean condition)
+   at System.Diagnostics.Debug.Assert(Boolean condition)
+   at Carto.MapModel.SymPath.Area() in /Users/jon/carto/src/MapModel/SymPath.cs:line 1667
+   at Carto.Tests.TestLoad.TestGetContours() in /Users/jon/carto/Tests/TestLoad.cs:line 46
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture, System.Object[] args)
+   at NUnit.Core.Reflect.InvokeMethod(System.Reflection.MethodInfo method, System.Object fixture)
+   at NUnit.Core.TestMethod.RunTestMethod(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doTestCase(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.doRun(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.NUnitTestMethod.Run(NUnit.Core.TestCaseResult testResult)
+   at NUnit.Core.TestCase.Run(EventListener listener)
+   at NUnit.Core.TestCase.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestFixture.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.RunAllTests(NUnit.Core.TestSuiteResult suiteResult, EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestSuite.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.SimpleTestRunner.Run(EventListener listener, ITestFilter filter)
+   at NUnit.Core.TestRunnerThread.TestRunnerThreadProc()
+   at System.Threading.Thread.StartInternal()
+---- Assert Long Message ----
+
+
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:14:29</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.61ms</Message>
+                      <ConsoleOutput>Contour Carto.MapModel.LineSymbol
+{X=-34.77,Y=10.92,Width=15.07,Height=15.58}
+23.59266
+Contour Carto.MapModel.LineSymbol
+{X=-32.73,Y=9.42,Width=17.17,Height=16.25}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-43.36,Y=-38.02,Width=7.059997,Height=7.909999}
+26.35425
+Contour Carto.MapModel.LineSymbol
+{X=-42.08,Y=-35.2,Width=0.9099991,Height=0.5599968}
+Not Closed
+Index Contour Carto.MapModel.LineSymbol
+{X=-46.045,Y=-41.405,Width=12.93,Height=14.2}
+85.80803
+Contour Carto.MapModel.LineSymbol
+{X=-65.06,Y=-57.21,Width=20.5,Height=21.33}
+270.5651
+Contour Carto.MapModel.LineSymbol
+{X=-66.96,Y=-59.1,Width=24.82,Height=27.21}
+434.1942
+Contour Carto.MapModel.LineSymbol
+{X=-70.93,Y=-62.75,Width=31.54,Height=37.17}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-82.98,Y=-19.48,Width=14.88999,Height=34.27}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-79.03,Y=-39.89,Width=20.68,Height=43.05}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-89.88,Y=-59.54,Width=10.75,Height=6.989997}
+Not Closed
+Index Contour Carto.MapModel.LineSymbol
+{X=-69.465,Y=-65.535,Width=44.52,Height=93.43}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-63.51,Y=-5.16,Width=30.86,Height=32.12}
+Not Closed
+Index Contour Carto.MapModel.LineSymbol
+{X=-89.625,Y=-41.045,Width=23.76,Height=62.27}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-50.74,Y=-72.17,Width=37.05,Height=95.72}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-51.21,Y=-95.59,Width=73.62,Height=64.20999}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=16.44,Y=-40.58,Width=6.849999,Height=24.47}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-26.85,Y=-139.85,Width=11.73,Height=54.85}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-35.53,Y=-148.03,Width=21.44,Height=72.93999}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-39.59,Y=-150.78,Width=32.3,Height=93.97999}
+Not Closed
+Index Contour Carto.MapModel.LineSymbol
+{X=-46.055,Y=-149.385,Width=69.04,Height=104.61}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=-53.81,Y=-141.1,Width=79.89,Height=97.44}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=5.27,Y=4.06,Width=41.41,Height=44.84}
+1099.516
+Index Contour Carto.MapModel.LineSymbol
+{X=11.575,Y=-95.45499,Width=8.13,Height=2.059995}
+Not Closed
+Contour Carto.MapModel.LineSymbol
+{X=22.94,Y=-96.53,Width=6.549998,Height=2.350002}
+Not Closed
+Index Contour Carto.MapModel.LineSymbol
+{X=11.185,Y=9.594999,Width=29.74,Height=33.24}
+Not Closed
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+                <TestRecord Name="GetContourPath">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:33:30</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.64ms</Message>
+                      <ConsoleOutput>{X=-21.41, Y=25.89}
+{X=-22.47, Y=26.4}
+{X=-26.77, Y=25.2}
+{X=-30.16, Y=21.46}
+{X=-33.61, Y=17.65}
+{X=-34.67, Y=13.14}
+{X=-33.83, Y=12.13}
+{X=-32.91, Y=11.02}
+{X=-32.42, Y=17.44}
+{X=-29.03, Y=21.25}
+{X=-25.57, Y=24.99}
+{X=-19.8, Y=24.42}
+{X=-21.41, Y=25.89}
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:49:35</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.61ms</Message>
+                      <ConsoleOutput>{X=-21.41, Y=25.89}
+{X=-22.47, Y=26.4}
+{X=-26.77, Y=25.2}
+{X=-30.16, Y=21.46}
+{X=-33.61, Y=17.65}
+{X=-34.67, Y=13.14}
+{X=-33.83, Y=12.13}
+{X=-32.91, Y=11.02}
+{X=-32.42, Y=17.44}
+{X=-29.03, Y=21.25}
+{X=-25.57, Y=24.99}
+{X=-19.8, Y=24.42}
+{X=-21.41, Y=25.89}
+ --- 
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:52:52</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.60ms</Message>
+                      <ConsoleOutput>{X=-21.41, Y=25.89}
+{X=-22.47, Y=26.4}
+{X=-26.77, Y=25.2}
+{X=-30.16, Y=21.46}
+{X=-33.61, Y=17.65}
+{X=-34.67, Y=13.14}
+{X=-33.83, Y=12.13}
+{X=-32.91, Y=11.02}
+{X=-32.42, Y=17.44}
+{X=-29.03, Y=21.25}
+{X=-25.57, Y=24.99}
+{X=-19.8, Y=24.42}
+{X=-21.41, Y=25.89}
+ --- 
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:53:35</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.61ms</Message>
+                      <ConsoleOutput>{X=-21.41, Y=25.89}
+{X=-22.47, Y=26.4}
+{X=-26.77, Y=25.2}
+{X=-30.16, Y=21.46}
+{X=-33.61, Y=17.65}
+{X=-34.67, Y=13.14}
+{X=-33.83, Y=12.13}
+{X=-32.91, Y=11.02}
+{X=-32.42, Y=17.44}
+{X=-29.03, Y=21.25}
+{X=-25.57, Y=24.99}
+{X=-19.8, Y=24.42}
+{X=-21.41, Y=25.89}
+ --- 
+Normal
+BezierControl
+BezierControl
+Normal
+BezierControl
+BezierControl
+Corner
+BezierControl
+BezierControl
+Normal
+BezierControl
+BezierControl
+Normal
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2012-01-31T22:54:31</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.64ms</Message>
+                      <ConsoleOutput>{X=-21.41, Y=25.89}
+{X=-22.47, Y=26.4}
+{X=-26.77, Y=25.2}
+{X=-30.16, Y=21.46}
+{X=-33.61, Y=17.65}
+{X=-34.67, Y=13.14}
+{X=-33.83, Y=12.13}
+{X=-32.91, Y=11.02}
+{X=-32.42, Y=17.44}
+{X=-29.03, Y=21.25}
+{X=-25.57, Y=24.99}
+{X=-19.8, Y=24.42}
+{X=-21.41, Y=25.89}
+ --- 
+Normal
+BezierControl
+BezierControl
+Normal
+BezierControl
+BezierControl
+Corner
+BezierControl
+BezierControl
+Normal
+BezierControl
+BezierControl
+Normal
+ --- 
+{X=-21.41, Y=25.89}
+{X=-21.51874, Y=25.93278}
+{X=-21.64571, Y=25.96539}
+{X=-21.95127, Y=25.99947}
+{X=-22.32061, Y=25.99105}
+{X=-22.74765, Y=25.93891}
+{X=-23.22632, Y=25.84182}
+{X=-23.75053, Y=25.69857}
+{X=-24.3142, Y=25.50796}
+{X=-24.91125, Y=25.26875}
+{X=-25.53561, Y=24.97974}
+{X=-26.18119, Y=24.63971}
+{X=-26.84192, Y=24.24744}
+{X=-27.51172, Y=23.80172}
+{X=-28.18451, Y=23.30133}
+{X=-28.8542, Y=22.74506}
+{X=-29.51472, Y=22.13169}
+{X=-30.16, Y=21.46}
+{X=-30.77899, Y=20.73845}
+{X=-31.34268, Y=20.00664}
+{X=-31.85178, Y=19.27073}
+{X=-32.30703, Y=18.53687}
+{X=-32.70914, Y=17.81122}
+{X=-33.05881, Y=17.09992}
+{X=-33.35678, Y=16.40913}
+{X=-33.60375, Y=15.745}
+{X=-33.80045, Y=15.11368}
+{X=-33.9476, Y=14.52133}
+{X=-34.04591, Y=13.97409}
+{X=-34.09609, Y=13.47813}
+{X=-34.09888, Y=13.03958}
+{X=-34.05498, Y=12.66461}
+{X=-34.01575, Y=12.50289}
+{X=-33.96511, Y=12.35937}
+{X=-33.90317, Y=12.23481}
+{X=-33.83, Y=12.13}
+{X=-33.74491, Y=12.04769}
+{X=-33.66173, Y=12.00764}
+{X=-33.57985, Y=12.008}
+{X=-33.49865, Y=12.04692}
+{X=-33.41754, Y=12.12252}
+{X=-33.3359, Y=12.23297}
+{X=-33.16859, Y=12.55094}
+{X=-32.99186, Y=12.98598}
+{X=-32.8008, Y=13.52324}
+{X=-32.35625, Y=14.845}
+{X=-32.093, Y=15.59979}
+{X=-31.79592, Y=16.39738}
+{X=-31.46014, Y=17.22292}
+{X=-31.08078, Y=18.06156}
+{X=-30.65297, Y=18.89844}
+{X=-30.41936, Y=19.31158}
+{X=-30.17182, Y=19.71871}
+{X=-29.90972, Y=20.11798}
+{X=-29.63245, Y=20.50751}
+{X=-29.33942, Y=20.88548}
+{X=-29.03, Y=21.25}
+{X=-28.69915, Y=21.58819}
+{X=-28.35655, Y=21.90229}
+{X=-28.00395, Y=22.19346}
+{X=-27.64314, Y=22.46287}
+{X=-27.2759, Y=22.71167}
+{X=-26.90399, Y=22.94104}
+{X=-26.52919, Y=23.15212}
+{X=-26.15328, Y=23.34609}
+{X=-25.40521, Y=23.68734}
+{X=-24.67396, Y=23.97408}
+{X=-23.97375, Y=24.21562}
+{X=-23.31875, Y=24.42125}
+{X=-22.20119, Y=24.76201}
+{X=-21.76702, Y=24.91574}
+{X=-21.43484, Y=25.07078}
+{X=-21.31144, Y=25.1517}
+{X=-21.21886, Y=25.23642}
+{X=-21.15888, Y=25.32613}
+{X=-21.13326, Y=25.42197}
+{X=-21.14379, Y=25.52512}
+{X=-21.19224, Y=25.63673}
+{X=-21.28039, Y=25.75797}
+{X=-21.41, Y=25.89}
+</ConsoleOutput>
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>

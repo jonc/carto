@@ -1,0 +1,69 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 2.10.8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Tests/TestHeightMap.cs">
+    <Files>
+      <File FileName="MapModel/Glyph.cs" Line="106" Column="44" />
+      <File FileName="MapModel/OcadImport.cs" Line="1" Column="1" />
+      <File FileName="MapModel/InputOutput.cs" Line="1" Column="1" />
+      <File FileName="MapModel/Map.cs" Line="65" Column="18" />
+      <File FileName="MapModel/Bezier.cs" Line="1" Column="1" />
+      <File FileName="MapModel/PointRect.cs" Line="1" Column="1" />
+      <File FileName="MapModel/GraphicsTarget.cs" Line="1" Column="1" />
+      <File FileName="MapModel/OcadExport.cs" Line="1" Column="1" />
+      <File FileName="MapModel/OcadFileFormat.cs" Line="1" Column="1" />
+      <File FileName="MapModel/SymDef.cs" Line="1" Column="1" />
+      <File FileName="MapModel/SymPath.cs" Line="1" Column="1" />
+      <File FileName="../Tests/Test.cs" Line="27" Column="1" />
+      <File FileName="MapModel/LZWCompression.cs" Line="1" Column="1" />
+      <File FileName="../Tests/TestLoad.cs" Line="59" Column="86" />
+      <File FileName="../Tests/Test.cs" Line="27" Column="23" />
+      <File FileName="../Tests/TestHeightMap.cs" Line="33" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MapModel" expanded="True" />
+          <Node name="Tests" expanded="True">
+            <Node name="TestHeightMap.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="MapModel" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Carto" expanded="True">
+              <Node name="MapModel" expanded="True">
+                <Node name="Carto.MapModel.LZWCompression" selected="True" />
+                <Node name="Carto.MapModel.OcadCmyk" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="Tests" expanded="True">
+            <Node name="Carto" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="TestLoad" expanded="True">
+                  <Node name="GetContourPath" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

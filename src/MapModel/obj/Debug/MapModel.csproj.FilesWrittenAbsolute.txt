@@ -1,0 +1,4 @@
+/Users/jon/carto/src/MapModel/bin/Debug/MapModel.dll.mdb
+/Users/jon/carto/src/MapModel/bin/Debug/MapModel.dll
+/Users/jon/carto/src/MapModel/obj/Debug/MapModel.dll
+/Users/jon/carto/src/MapModel/obj/Debug/MapModel.dll.mdb

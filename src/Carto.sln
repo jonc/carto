@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapModel", "MapModel\MapModel.csproj", "{28BE9C6F-AC25-421A-8A4B-CB34A50AE526}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E40D3FFF-85F2-457A-B81B-A3A864600ACE}"
+	ProjectSection(SolutionItems) = preProject
+		Carto.vsmdi = Carto.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{16E4C96C-61A7-4E37-A87A-54179457DF6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E4C96C-61A7-4E37-A87A-54179457DF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E4C96C-61A7-4E37-A87A-54179457DF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E4C96C-61A7-4E37-A87A-54179457DF6E}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E4C96C-61A7-4E37-A87A-54179457DF6E}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{16E4C96C-61A7-4E37-A87A-54179457DF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E4C96C-61A7-4E37-A87A-54179457DF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BE9C6F-AC25-421A-8A4B-CB34A50AE526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BE9C6F-AC25-421A-8A4B-CB34A50AE526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BE9C6F-AC25-421A-8A4B-CB34A50AE526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BE9C6F-AC25-421A-8A4B-CB34A50AE526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ..\Tests\Tests.csproj
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Carto.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
